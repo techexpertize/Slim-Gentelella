@@ -1,2 +1,2 @@
 # Slim-Gentelella
-Gentelella Theme on Slim Framework
+# Gentelella admin theme on Slim Framework
